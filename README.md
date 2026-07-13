@@ -2,7 +2,7 @@
 
 ## Overview
 
-scGPL (Single-cell Gene Prediction with Learned representations) is a multi-branch architecture model for single-cell transcription factor-target gene prediction. The model integrates Transformer encoders, subgraph graph neural networks (GNNs), and global graph neural networks to effectively learn complex relationships in gene regulatory networks.
+scGPL (Bridging Graph and Pairwise Learning) is a multi-branch architecture model for single-cell transcription factor-target gene prediction. The model integrates Transformer encoders, subgraph graph neural networks (GNNs), and global graph neural networks to effectively learn complex relationships in gene regulatory networks.
 
 ## Key Features
 
