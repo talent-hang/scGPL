@@ -63,8 +63,6 @@ class Dataset(torch.utils.data.Dataset):
         else:
             self._build_global_adjacency_matrix()
 
-        self._build_global_adjacency_matrix()
-
     def _precompute_gpu_adjacency(self):
         try:
             row, col, data = [], [], []
