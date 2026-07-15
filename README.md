@@ -32,7 +32,7 @@ cd scGPL
 conda env create -f environment.yml
 
 # Activate environment
-conda activate genelink
+conda activate scgpl
 ```
 
 ### Option 2: Manual Installation
