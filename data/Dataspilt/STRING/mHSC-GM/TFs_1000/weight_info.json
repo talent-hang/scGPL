@@ -1,0 +1,17 @@
+{
+    "train": {
+        "pos_count": 839,
+        "neg_count": 74860,
+        "pos_weight": 89.22526817640048
+    },
+    "val": {
+        "pos_count": 129,
+        "neg_count": 11172,
+        "pos_weight": 86.6046511627907
+    },
+    "test": {
+        "pos_count": 343,
+        "neg_count": 25757,
+        "pos_weight": 75.0932944606414
+    }
+}

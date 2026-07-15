@@ -1,8 +1,8 @@
-# scGPL: Single-cell Universal Gene Prediction Model
+# scGPL: Bridging Graph and Pairwise Learning for Gene Regulatory Network Inference from scRNA-seq Data
 
 ## Overview
 
-scGPL (Bridging Graph and Pairwise Learning) is a multi-branch architecture model for single-cell transcription factor-target gene prediction. The model integrates Transformer encoders, subgraph graph neural networks (GNNs), and global graph neural networks to effectively learn complex relationships in gene regulatory networks.
+scGPL (Bridging Graph and Pairwise Learning for Gene Regulatory Network Inference from scRNA-seq Data) is a multi-branch architecture model for single-cell transcription factor-target gene prediction. The model integrates Transformer encoders, subgraph graph neural networks (GNNs), and global graph neural networks to effectively learn complex relationships in gene regulatory networks.
 
 ## Key Features
 
